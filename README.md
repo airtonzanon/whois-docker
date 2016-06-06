@@ -21,3 +21,5 @@ docker run -it --rm airtonzanon/whois:latest dns-or-ip
 ```
 docker run -it --rm airtonzanon/whois:latest airtonzanon.com
 ```
+
+Thanks to [Jess](https://github.com/jfrazelle)
